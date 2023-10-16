@@ -24,7 +24,7 @@ If you prefer, you can setup the credentials in a secure vault file, using these
       password: yourpassword
 
 ## Role Variables
-See defaults/globals.yml for the complete list of variables.
+See [defaults/main/globals.yml](defaults/main/globals.yml) for the complete list of variables.
 See also [proxmox_kvm] module page.
 
 ## Dependencies
